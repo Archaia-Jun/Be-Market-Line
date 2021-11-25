@@ -1,5 +1,5 @@
 # Be-Market-Line
-Application Android, E-shop, commandes et livraisons
+Application Android, E-shop, commandes et livraisons.
 * Commandez vos articles depuis vote smartphone.
 * Gestion des clients et professionnels.
 * Duivi des commandes et livraisons.
